@@ -1,0 +1,11 @@
+{
+	"tour tab": { 
+		"css-selector": "input.form-control" 
+	},
+	"origin" : { 
+		"css-selector": "input.form-control[name='origin']" 
+	},
+	"destination" : { 
+		"css-selector": "input.form-control[name='destination']" 
+	}
+}
